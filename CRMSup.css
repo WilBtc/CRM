@@ -1,0 +1,48 @@
+.sign-up-form {
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 56%;
+}
+
+.signup-btn{
+    display: flex;
+    width: 100px;
+    padding: 0px;
+    margin-bottom: 50;
+    margin-top: 50;
+    text-align: center;
+    background-color: blue;
+justify-content:space-evenly;
+
+
+}
+
+.Sign-Up {
+    width: 1px;
+    padding: 0px;
+    text-align: center;
+
+}
+.signup-btn1 {
+    border: 10px;
+    
+}
+.signup-btn2 {
+    border: 10px;
+}
+.signup-btn3 {
+    border: 10px;
+}
+.signup-btn4 {
+    border: 10px;
+}
+
+.img {
+    width: 1px;
+    padding: 0px;
+    text-align: right;
+    margin-right: 100;
+}
