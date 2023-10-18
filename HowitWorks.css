@@ -1,0 +1,83 @@
+
+.nav-bar li{
+    display: inline-block;
+    padding-left: 200px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.body{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.L li{
+    display: inline-block;
+}
+.main{
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.Lorem h4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.Info img{
+        position: absolute;
+        left: 1400px;
+        bottom: 400px;
+        z-index: -1;
+        
+}
+.Info2{
+    border-radius: 10%;
+    background: rgb(40, 83, 247);
+    color: white;
+    padding-bottom: 100px;
+}
+
+.Info2 h5{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.Payment img{
+    position: absolute;
+    left: 1350px;
+    bottom: -250px;
+    z-index: -1;
+}
+.Payment2{
+    border-radius: 10%;
+    background: rgb(40, 83, 247);
+    color: white;
+    padding-bottom: 100px;
+}
+.Payment2 h5{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.footer{
+    background: rgb(40, 83, 247);
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer li{
+    display: inline-block;
+}

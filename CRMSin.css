@@ -1,0 +1,28 @@
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+
+  }
+  .box1_1 {
+    background-color: transparent;
+
+  }
+  
+  img {
+    position: absolute;
+    left: -100px;
+    top: -100px;
+    z-index: -3;
+    background-image: url(sinin_pic_1.pngf);
+    
+  }
+  
+
+  
+
+   
+
+  
