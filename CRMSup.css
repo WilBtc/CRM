@@ -1,3 +1,10 @@
+body {
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
 .sign-up-form {
     width: 200px;
     padding: 20px;
@@ -40,9 +47,13 @@ justify-content:space-evenly;
     border: 10px;
 }
 
-.img {
-    width: 1px;
-    padding: 0px;
-    text-align: right;
-    margin-right: 100;
+.ImgMain {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    margin-left: 200%;
+    margin-bottom: 100%;
+  
+  
+    
 }
